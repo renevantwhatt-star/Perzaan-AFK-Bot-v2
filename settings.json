@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "deathsmp-t2V2 .aternos.me",
+    "ip": "deathsmp-t2V2.aternos.me",
     "port": 13161,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
